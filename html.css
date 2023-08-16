@@ -1,0 +1,288 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+.ourservices
+{
+    font-size:large;
+    width:100%;
+    margin-left: 220px;
+    padding-top: 30px;
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:white;
+}
+.links
+{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: space-between;
+    gap:40px; 
+}
+.h1
+{ margin-top: 580px;
+    font-size: 125px;
+    display: flex;
+flex-wrap: wrap;
+height: 100%;
+width: 50%;
+
+/* display: flex;
+flex-direction: column;
+align-items: start;
+justify-content: space-between; */
+}
+.h2
+{
+    font-size: 200px;
+    display: flex;
+flex-wrap: wrap;
+height: 900px;
+
+
+width: 70%;
+}
+.h3
+{
+    font-size: 200px;
+    display: flex;
+flex-wrap: wrap;
+height: 900px;
+
+
+width: 70%;
+}
+.well
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100vh;
+    /* justify-content: space-between; */
+}
+
+.section1
+{ width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: space-between;
+    gap:120px; 
+    flex-wrap: wrap;
+    /* height: 100vh; */
+}
+.pork
+{
+    display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+gap:20px;
+}
+.part{
+display: flex;
+flex-direction: row;
+width:100%;
+height: 100%;
+margin: 20px;
+/* background-color:deeppink; */
+}
+.dip
+{
+   /* display: flex;
+   justify-content: center;
+   align-items: center; */
+    width:20%;
+  
+  
+}
+
+.seter1
+{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+    gap:40px;
+    flex-wrap: wrap;
+    width:100%;
+    /* margin-left: 200px; */
+}
+/* .part1
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+    width:80%;
+    flex-wrap: wrap;
+  
+} */
+/* p{
+    width: 20%;
+} */
+.peach
+{ 
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    /* margin-right: 100px; */
+}
+/* .part1
+
+{
+    display: flex;
+    flex-direction: column;
+} */
+.boxes
+{
+    display: flex;
+    flex-direction: row;
+    align-items:start;
+    justify-content:start;
+    flex-wrap: wrap;
+    gap:40px;
+    width:100%;
+}
+.one1
+{
+    width: 20%;
+    /* height:50px; */
+
+}
+
+.box1
+{ margin-left: 60px;
+    width: 60px;
+    height: 70px;
+    background-color: aquamarine;
+   
+    
+}
+/* .solutions
+{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+gap:50px;
+flex-wrap: wrap;
+} */
+.likq
+{
+    
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+}
+.ourblog
+{
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+}
+.section3
+{ gap:50px;
+    width: 350px;
+    height: 350px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   
+}
+.image{
+    background-color: black;
+    width: 100%;
+    height: 150px;
+}
+.textcontent{
+    background-color:lightcoral;
+    padding: 10px;
+    width: 100%;
+    height:200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.half{
+    background-color: black;
+    width: 300px;
+    height: 200px;
+    margin-top: 100px;
+    color: white;
+    
+}
+.text{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 100px;
+}
+
+.gaq
+{
+    display: flex;
+    align-items: start;
+    justify-content:start;
+    flex-direction: row;
+    gap:50px;
+}
+.box44
+
+{ gap:50px;
+    width: 250px;
+    height: 300px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.solutions
+{
+    display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+gap:30px;
+flex-wrap: wrap;
+}
+.box8
+{
+    height:70px;
+    width: 100px;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+}
+.section2
+{ width:80%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+header
+{
+display: flex;
+flex-direction: row;
+align-items: start;
+justify-content: space-between;
+}
+.partner
+{
+   width: 20%;
+}
